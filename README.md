@@ -1,2 +1,2 @@
 # penis image machine
-get random penis images
+get random sexy penis images
