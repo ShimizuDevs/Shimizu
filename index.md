@@ -1,3 +1,7 @@
+# Shimizu
+
+## A multi-purpose discord bot.
+
 - Prefix: `s?` (customizable)
 
 - Help Command: `@mention` or `s?help`
